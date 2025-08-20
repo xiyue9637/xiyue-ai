@@ -1,0 +1,3 @@
+name = "xiyie-ai"  # 你的 Worker 名字
+main = "worker.js"  # 主文件
+compatibility_date = "2025-08-20"  # 按你说的 2025 年 8 月 20 日
